@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="36" version="2.0">
+<workbench progressCount="28" version="2.0">
 <workbenchAdvisor/>
-<window height="776" width="640" x="640" y="24">
+<window height="770" maximized="true" width="640" x="49" y="45">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -11,14 +11,15 @@
 <coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="132" y="30"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="140" y="30"/>
-<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="195" y="30"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="82" y="30"/>
 <coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="188" y="30"/>
 <coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="96" y="30"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="84" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.js" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="com.aptana.editor.css" itemType="typePlaceholder" x="-1" y="-1"/>
-<coolItem id="com.aptana.editor.sass" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.sass" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="com.aptana.editor.erb.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
 <coolItem id="com.aptana.editor.ruby" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -34,91 +35,21 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
-<part id="12"/>
-<part id="13"/>
-<part id="14"/>
-<part id="15"/>
-<part id="16"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="com.aptana.editor.ruby" name="users_controller.rb" partName="users_controller.rb" title="users_controller.rb" tooltip="/home/caroline/projets/sample_app/app/controllers/users_controller.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/app/controllers/users_controller.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="210" selectionTopPixel="0"/>
+<editor activePart="true" focus="true" id="com.aptana.editor.ruby" name="sessions_helper.rb" partName="sessions_helper.rb" title="sessions_helper.rb" tooltip="/home/caroline/projets/itligent/sample_app1/app/helpers/sessions_helper.rb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/itligent/sample_app1/app/helpers/sessions_helper.rb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="182" selectionTopPixel="48"/>
 </editor>
-<editor id="com.aptana.editor.erb.html" name="new.html.erb" partName="new.html.erb" title="new.html.erb" tooltip="/home/caroline/projets/sample_app/app/views/users/new.html.erb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/app/views/users/new.html.erb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="174" selectionTopPixel="12"/>
+<editor id="com.aptana.editor.erb.html" name="_header.html.erb" partName="_header.html.erb" title="_header.html.erb" tooltip="/home/caroline/projets/itligent/sample_app1/app/views/layouts/_header.html.erb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/itligent/sample_app1/app/views/layouts/_header.html.erb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="330" selectionTopPixel="63"/>
 </editor>
-<editor id="com.aptana.editor.ruby" name="user_pages_spec.rb" partName="user_pages_spec.rb" title="user_pages_spec.rb" tooltip="/home/caroline/projets/sample_app/spec/requests/user_pages_spec.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/spec/requests/user_pages_spec.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="998" selectionTopPixel="600"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="routes.rb" partName="routes.rb" title="routes.rb" tooltip="/home/caroline/projets/sample_app/config/routes.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/config/routes.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="59" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.erb.html" name="home.html.erb" partName="home.html.erb" title="home.html.erb" tooltip="/home/caroline/projets/sample_app/app/views/static_pages/home.html.erb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/app/views/static_pages/home.html.erb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="311" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="20120424153336_create_users.rb" partName="20120424153336_create_users.rb" title="20120424153336_create_users.rb" tooltip="/home/caroline/projets/sample_app/db/migrate/20120424153336_create_users.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/db/migrate/20120424153336_create_users.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="81" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="user.rb" partName="user.rb" title="user.rb" tooltip="/home/caroline/projets/sample_app/app/models/user.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/app/models/user.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="301" selectionTopPixel="51"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="user_spec.rb" partName="user_spec.rb" title="user_spec.rb" tooltip="/home/caroline/projets/sample_app/spec/models/user_spec.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/spec/models/user_spec.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2858" selectionTopPixel="1360"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="20120425100506_add_index_to_users_email.rb" partName="20120425100506_add_index_to_users_email.rb" title="20120425100506_add_index_to_users_email.rb" tooltip="/home/caroline/projets/sample_app/db/migrate/20120425100506_add_index_to_users_email.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/db/migrate/20120425100506_add_index_to_users_email.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="119" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="20120425103805_add_password_digest_to_users.rb" partName="20120425103805_add_password_digest_to_users.rb" title="20120425103805_add_password_digest_to_users.rb" tooltip="/home/caroline/projets/sample_app/db/migrate/20120425103805_add_password_digest_to_users.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/db/migrate/20120425103805_add_password_digest_to_users.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="87" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.erb.html" name="application.html.erb" partName="application.html.erb" title="application.html.erb" tooltip="/home/caroline/projets/sample_app/app/views/layouts/application.html.erb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/app/views/layouts/application.html.erb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="447" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.erb.html" name="show.html.erb" partName="show.html.erb" title="show.html.erb" tooltip="/home/caroline/projets/sample_app/app/views/users/show.html.erb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/app/views/users/show.html.erb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="206" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="factories.rb" partName="factories.rb" title="factories.rb" tooltip="/home/caroline/projets/sample_app/spec/factories.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/spec/factories.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="171" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="test.rb" partName="test.rb" title="test.rb" tooltip="/home/caroline/projets/sample_app/config/environments/test.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/config/environments/test.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1527" selectionTopPixel="447"/>
-</editor>
-<editor id="com.aptana.editor.ruby" name="users_helper.rb" partName="users_helper.rb" title="users_helper.rb" tooltip="/home/caroline/projets/sample_app/app/helpers/users_helper.rb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/app/helpers/users_helper.rb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="314" selectionTopPixel="0"/>
-</editor>
-<editor activePart="true" focus="true" id="com.aptana.editor.sass" name="custom.css.scss" partName="custom.css.scss" title="custom.css.scss" tooltip="/home/caroline/projets/sample_app/app/assets/stylesheets/custom.css.scss" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/app/assets/stylesheets/custom.css.scss"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2122" selectionTopPixel="2576"/>
-</editor>
-<editor id="com.aptana.editor.erb.html" name="_error_messages.html.erb" partName="_error_messages.html.erb" title="_error_messages.html.erb" tooltip="/home/caroline/projets/sample_app/app/views/shared/_error_messages.html.erb" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/sample_app/app/views/shared/_error_messages.html.erb"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="306" selectionTopPixel="0"/>
+<editor id="com.aptana.editor.ruby" name="static_pages_spec.rb" partName="static_pages_spec.rb" title="static_pages_spec.rb" tooltip="/home/caroline/projets/itligent/sample_app1/spec/requests/static_pages_spec.rb" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/home/caroline/projets/itligent/sample_app1/spec/requests/static_pages_spec.rb"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="345" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -201,8 +132,8 @@
 <fastViewBars>
 <fastViewBar fastViewLocation="16384" id="left" orientation="512" selectedTabId="org.eclipse.ui.navigator.ProjectExplorer" style="0">
 <fastViews>
-<view id="com.aptana.explorer.view" ratio="0.2956081"/>
-<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.36789298"/>
+<view id="com.aptana.explorer.view" ratio="0.29431438"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.36752826"/>
 </fastViews>
 </fastViewBar>
 <fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@3318eeda" orientation="512" selectedTabId="com.aptana.samples.ui.SamplesView" style="0">
@@ -238,7 +169,7 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@a83b090" ratio="0.41833812" ratioLeft="292" ratioRight="406" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@a83b090" ratio="0.20792079" ratioLeft="126" ratioRight="480" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="com.aptana.terminal.views.terminal" appearance="2" expanded="2">
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="com.aptana.terminal.views.terminal" label="caroline@brice-linux-tp: ~/projets/itligent"/>
@@ -266,18 +197,6 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/app/models/user.rb"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/spec/models/user_spec.rb"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/db/migrate/20120425103805_add_password_digest_to_users.rb"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/db/migrate/20120425103805_add_password_digest_to_users.rb"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/Gemfile"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/app/models/user.rb"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/app/controllers/users_controller.rb"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.sass" uri="file:/home/caroline/projets/sample_app/app/assets/stylesheets/custom.css.scss"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/home/caroline/projets/sample_app/app/views/layouts/application.html.erb"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/config/routes.rb"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/home/caroline/projets/sample_app/app/views/users/show.html.erb"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/spec/requests/user_pages_spec.rb"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/Gemfile"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/spec/factories.rb"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.sass" uri="file:/home/caroline/projets/sample_app/app/assets/stylesheets/custom.css.scss"/>
@@ -289,156 +208,161 @@
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/sample_app/app/controllers/users_controller.rb"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.sass" uri="file:/home/caroline/projets/sample_app/app/assets/stylesheets/custom.css.scss"/>
 <editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/home/caroline/projets/sample_app/app/views/shared/_error_messages.html.erb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/itligent/sample_app1/app/helpers/sessions_helper.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" uri="file:/home/caroline/projets/itligent/sample_app1/app/views/layouts/_header.html.erb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/home/caroline/projets/itligent/sample_app1/app/assets/javascripts/application.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/itligent/sample_app1/spec/spec_helper.rb"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" uri="file:/home/caroline/projets/itligent/sample_app1/spec/requests/static_pages_spec.rb"/>
 </editors>
-<item historyLabel="20120425103805_add_password_digest_to_users.rb" index="2">
-<position info="not_deleted" x="87" y="0"/>
-</item>
-<item historyLabel="user_spec.rb" index="1">
-<position info="not_deleted" x="2295" y="0"/>
-</item>
-<item historyLabel="user.rb" index="0">
-<position info="not_deleted" x="400" y="0"/>
-</item>
-<item historyLabel="user_spec.rb" index="1">
-<position info="not_deleted" x="2295" y="0"/>
-</item>
-<item historyLabel="20120425103805_add_password_digest_to_users.rb" index="3">
-<position info="not_deleted" x="87" y="0"/>
-</item>
-<item historyLabel="Gemfile" index="4">
-<position info="not_deleted" x="109" y="0"/>
-</item>
-<item historyLabel="20120425103805_add_password_digest_to_users.rb" index="3">
-<position info="not_deleted" x="87" y="0"/>
-</item>
-<item historyLabel="user_spec.rb" index="1">
-<position info="not_deleted" x="1120" y="3"/>
-</item>
-<item historyLabel="user.rb" index="5">
-<position info="not_deleted" x="336" y="0"/>
-</item>
-<item historyLabel="user_spec.rb" index="1">
-<position info="not_deleted" x="2858" y="0"/>
-</item>
-<item historyLabel="user.rb" index="5">
-<position info="not_deleted" x="336" y="0"/>
-</item>
-<item historyLabel="users_controller.rb" index="6">
-<position info="not_deleted" x="124" y="0"/>
-</item>
-<item historyLabel="custom.css.scss" index="7">
-<position info="not_deleted" x="1523" y="0"/>
-</item>
-<item historyLabel="application.html.erb" index="8">
-<position info="not_deleted" x="447" y="0"/>
-</item>
-<item historyLabel="routes.rb" index="9">
-<position info="not_deleted" x="59" y="0"/>
-</item>
-<item historyLabel="show.html.erb" index="10">
-<position info="not_deleted" x="37" y="0"/>
-</item>
-<item historyLabel="users_controller.rb" index="6">
-<position info="not_deleted" x="124" y="0"/>
-</item>
-<item historyLabel="user_pages_spec.rb" index="11">
-<position info="not_deleted" x="481" y="0"/>
-</item>
-<item historyLabel="Gemfile" index="12">
-<position info="not_deleted" x="708" y="0"/>
-</item>
-<item historyLabel="factories.rb" index="13">
+<item historyLabel="factories.rb" index="1">
 <position info="not_deleted" x="171" y="0"/>
 </item>
-<item historyLabel="Gemfile" index="12">
+<item historyLabel="Gemfile" index="0">
 <position info="not_deleted" x="708" y="0"/>
 </item>
-<item historyLabel="factories.rb" index="13">
+<item historyLabel="factories.rb" index="1">
 <position info="not_deleted" x="171" y="0"/>
 </item>
-<item historyLabel="custom.css.scss" index="14">
+<item historyLabel="custom.css.scss" index="2">
 <position/>
 </item>
-<item historyLabel="factories.rb" index="13">
+<item historyLabel="factories.rb" index="1">
 <position info="not_deleted" x="171" y="0"/>
 </item>
-<item historyLabel="user_pages_spec.rb" index="15">
+<item historyLabel="user_pages_spec.rb" index="3">
 <position info="not_deleted" x="1405" y="0"/>
 </item>
-<item historyLabel="show.html.erb" index="16">
+<item historyLabel="show.html.erb" index="4">
 <position info="not_deleted" x="206" y="0"/>
 </item>
-<item historyLabel="show.html.erb" index="16">
+<item historyLabel="show.html.erb" index="4">
 <position/>
 </item>
-<item historyLabel="user_pages_spec.rb" index="15">
+<item historyLabel="user_pages_spec.rb" index="3">
 <position info="not_deleted" x="284" y="0"/>
 </item>
-<item historyLabel="factories.rb" index="13">
+<item historyLabel="factories.rb" index="1">
 <position info="not_deleted" x="171" y="0"/>
 </item>
-<item historyLabel="show.html.erb" index="16">
+<item historyLabel="show.html.erb" index="4">
 <position info="not_deleted" x="206" y="0"/>
 </item>
-<item historyLabel="user_pages_spec.rb" index="15">
+<item historyLabel="user_pages_spec.rb" index="3">
 <position info="not_deleted" x="284" y="0"/>
 </item>
-<item historyLabel="show.html.erb" index="16">
+<item historyLabel="show.html.erb" index="4">
 <position info="not_deleted" x="206" y="0"/>
 </item>
-<item historyLabel="factories.rb" index="13">
+<item historyLabel="factories.rb" index="1">
 <position info="not_deleted" x="171" y="0"/>
 </item>
-<item historyLabel="test.rb" index="17">
+<item historyLabel="test.rb" index="5">
 <position info="not_deleted" x="1527" y="0"/>
 </item>
-<item historyLabel="show.html.erb" index="16">
+<item historyLabel="show.html.erb" index="4">
 <position info="not_deleted" x="206" y="0"/>
 </item>
-<item historyLabel="users_helper.rb" index="18">
+<item historyLabel="users_helper.rb" index="6">
 <position info="not_deleted" x="314" y="0"/>
 </item>
-<item historyLabel="show.html.erb" index="16">
+<item historyLabel="show.html.erb" index="4">
 <position info="not_deleted" x="206" y="0"/>
 </item>
-<item historyLabel="custom.css.scss" index="14">
+<item historyLabel="custom.css.scss" index="2">
 <position info="not_deleted" x="1932" y="0"/>
 </item>
-<item historyLabel="show.html.erb" index="16">
+<item historyLabel="show.html.erb" index="4">
 <position info="not_deleted" x="206" y="0"/>
 </item>
-<item historyLabel="user_pages_spec.rb" index="15">
+<item historyLabel="user_pages_spec.rb" index="3">
 <position info="not_deleted" x="284" y="0"/>
 </item>
-<item historyLabel="new.html.erb" index="19">
+<item historyLabel="new.html.erb" index="7">
 <position/>
 </item>
-<item historyLabel="users_controller.rb" index="20">
+<item historyLabel="users_controller.rb" index="8">
 <position info="not_deleted" x="134" y="0"/>
 </item>
-<item historyLabel="custom.css.scss" index="21">
+<item historyLabel="custom.css.scss" index="9">
 <position info="not_deleted" x="1908" y="0"/>
 </item>
-<item historyLabel="new.html.erb" index="19">
+<item historyLabel="new.html.erb" index="7">
 <position info="not_deleted" x="238" y="0"/>
 </item>
-<item historyLabel="users_controller.rb" index="20">
+<item historyLabel="users_controller.rb" index="8">
 <position info="not_deleted" x="134" y="0"/>
 </item>
-<item historyLabel="users_controller.rb" index="20">
+<item historyLabel="users_controller.rb" index="8">
 <position info="not_deleted" x="280" y="0"/>
 </item>
-<item historyLabel="users_controller.rb" index="20">
+<item historyLabel="users_controller.rb" index="8">
 <position info="not_deleted" x="210" y="0"/>
 </item>
-<item historyLabel="new.html.erb" index="19">
+<item historyLabel="new.html.erb" index="7">
 <position info="not_deleted" x="174" y="0"/>
 </item>
-<item historyLabel="_error_messages.html.erb" index="22">
+<item historyLabel="_error_messages.html.erb" index="10">
 <position info="not_deleted" x="306" y="0"/>
 </item>
-<item active="true" historyLabel="custom.css.scss" index="21">
-<position info="not_deleted" x="1908" y="0"/>
+<item historyLabel="custom.css.scss" index="9">
+<position info="not_deleted" x="2164" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="11">
+<position info="not_deleted" x="210" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="11">
+<position info="not_deleted" x="185" y="0"/>
+</item>
+<item historyLabel="_header.html.erb" index="12">
+<position info="not_deleted" x="1090" y="0"/>
+</item>
+<item historyLabel="application.js" index="13">
+<position info="not_deleted" x="663" y="0"/>
+</item>
+<item historyLabel="_header.html.erb" index="12">
+<position info="not_deleted" x="1090" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="11">
+<position info="not_deleted" x="185" y="0"/>
+</item>
+<item historyLabel="application.js" index="13">
+<position info="not_deleted" x="663" y="0"/>
+</item>
+<item historyLabel="_header.html.erb" index="12">
+<position info="not_deleted" x="1090" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="11">
+<position info="not_deleted" x="236" y="0"/>
+</item>
+<item historyLabel="spec_helper.rb" index="14">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="11">
+<position/>
+</item>
+<item historyLabel="static_pages_spec.rb" index="15">
+<position info="not_deleted" x="345" y="0"/>
+</item>
+<item historyLabel="application.js" index="13">
+<position info="not_deleted" x="663" y="0"/>
+</item>
+<item historyLabel="static_pages_spec.rb" index="15">
+<position info="not_deleted" x="345" y="0"/>
+</item>
+<item historyLabel="_header.html.erb" index="12">
+<position info="not_deleted" x="1032" y="0"/>
+</item>
+<item historyLabel="sessions_helper.rb" index="11">
+<position info="not_deleted" x="68" y="0"/>
+</item>
+<item historyLabel="_header.html.erb" index="12">
+<position info="not_deleted" x="330" y="0"/>
+</item>
+<item active="true" historyLabel="sessions_helper.rb" index="11">
+<position info="not_deleted" x="68" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -457,11 +381,25 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
-<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@a83b090"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="static_pages_spec.rb" tooltip="/home/caroline/projets/itligent/sample_app1/spec/requests/static_pages_spec.rb">
+<persistable uri="file:/home/caroline/projets/itligent/sample_app1/spec/requests/static_pages_spec.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="spec_helper.rb" tooltip="/home/caroline/projets/itligent/sample_app1/spec/spec_helper.rb">
+<persistable uri="file:/home/caroline/projets/itligent/sample_app1/spec/spec_helper.rb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="application.js" tooltip="/home/caroline/projets/itligent/sample_app1/app/assets/javascripts/application.js">
+<persistable uri="file:/home/caroline/projets/itligent/sample_app1/app/assets/javascripts/application.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="_header.html.erb" tooltip="/home/caroline/projets/itligent/sample_app1/app/views/layouts/_header.html.erb">
+<persistable uri="file:/home/caroline/projets/itligent/sample_app1/app/views/layouts/_header.html.erb"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="sessions_helper.rb" tooltip="/home/caroline/projets/itligent/sample_app1/app/helpers/sessions_helper.rb">
+<persistable uri="file:/home/caroline/projets/itligent/sample_app1/app/helpers/sessions_helper.rb"/>
+</file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="_error_messages.html.erb" tooltip="/home/caroline/projets/sample_app/app/views/shared/_error_messages.html.erb">
 <persistable uri="file:/home/caroline/projets/sample_app/app/views/shared/_error_messages.html.erb"/>
 </file>
@@ -491,21 +429,6 @@
 </file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="20120425100506_add_index_to_users_email.rb" tooltip="/home/caroline/projets/sample_app/db/migrate/20120425100506_add_index_to_users_email.rb">
 <persistable uri="file:/home/caroline/projets/sample_app/db/migrate/20120425100506_add_index_to_users_email.rb"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="user_spec.rb" tooltip="/home/caroline/projets/sample_app/spec/models/user_spec.rb">
-<persistable uri="file:/home/caroline/projets/sample_app/spec/models/user_spec.rb"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="user.rb" tooltip="/home/caroline/projets/sample_app/app/models/user.rb">
-<persistable uri="file:/home/caroline/projets/sample_app/app/models/user.rb"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="20120424153336_create_users.rb" tooltip="/home/caroline/projets/sample_app/db/migrate/20120424153336_create_users.rb">
-<persistable uri="file:/home/caroline/projets/sample_app/db/migrate/20120424153336_create_users.rb"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.erb.html" name="home.html.erb" tooltip="/home/caroline/projets/sample_app/app/views/static_pages/home.html.erb">
-<persistable uri="file:/home/caroline/projets/sample_app/app/views/static_pages/home.html.erb"/>
-</file>
-<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.ruby" name="routes.rb" tooltip="/home/caroline/projets/sample_app/config/routes.rb">
-<persistable uri="file:/home/caroline/projets/sample_app/config/routes.rb"/>
 </file>
 </mruList>
 </workbench>
